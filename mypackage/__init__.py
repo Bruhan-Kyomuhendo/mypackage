@@ -1,0 +1,1 @@
+from . import myModule # Import the module we just created
